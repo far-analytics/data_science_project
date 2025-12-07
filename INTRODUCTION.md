@@ -61,7 +61,7 @@ pip install cookiecutter
 #### Use the Cookiecutter to create an informal IMRaD-like layout project.
 
 ```bash
-cookiecutter https://github.com/faranalytics/data_science_project.git --checkout informal_layout_cookiecutter
+cookiecutter https://github.com/adpatter/data_science_project.git --checkout informal_layout_cookiecutter
 ```
 
 ## A formal IMRaD-like flat layout
@@ -89,7 +89,7 @@ In this example you will clone the repository, explore its layout, install it, a
 #### Clone the repository.
 
 ```bash
-git clone https://github.com/faranalytics/data_science_project.git
+git clone https://github.com/adpatter/data_science_project.git
 ```
 
 #### Checkout the branch.
@@ -234,7 +234,7 @@ pip install cookiecutter
 #### Use the Cookiecutter to create a Data Science Project from the cookiecutter branch.
 
 ```bash
-cookiecutter https://github.com/faranalytics/data_science_project.git --checkout formal_flat_layout_cookiecutter
+cookiecutter https://github.com/adpatter/data_science_project.git --checkout formal_flat_layout_cookiecutter
 ```
 
 #### Complete the Cookiecutter form.
@@ -305,7 +305,7 @@ python -m <your-package-name>
 
 ### Example
 
-The [`__main__.py`](https://github.com/faranalytics/data_science_project/blob/main/project/package/__main__.py) module in this repository shows how you can use [papermill](https://papermill.readthedocs.io/en/latest/index.html) to easily construct a notebook pipeline.
+The [`__main__.py`](https://github.com/adpatter/data_science_project/blob/main/project/package/__main__.py) module in this repository shows how you can use [papermill](https://papermill.readthedocs.io/en/latest/index.html) to easily construct a notebook pipeline.
 
 ### Publish your package
 
@@ -313,6 +313,6 @@ You can publish your package by following the instructions in the [tutorial](htt
 
 ## Support
 
-If you have a feature request or run into any issues, feel free to submit an [issue](https://github.com/faranalytics/data_science_project/issues) or start a [discussion](https://github.com/faranalytics/data_science_project/discussions). You’re also welcome to reach out directly to one of the authors.
+If you have a feature request or run into any issues, feel free to submit an [issue](https://github.com/adpatter/data_science_project/issues) or start a [discussion](https://github.com/adpatter/data_science_project/discussions). You’re also welcome to reach out directly to one of the authors.
 
 - [Adam Patterson](https://github.com/adamjpatterson)
